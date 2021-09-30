@@ -1,9 +1,9 @@
-var text = ["Cakes", "Ice-Creams", "Chocolates","Cookies","Donuts"];
-var image = ["image/rasmalai cake.jpg",
-"image/rose ice.jpeg",
+var text = ["Ice-Creams", "Chocolates","Cookies","Donuts","Cakes"];
+var image = ["image/rose ice.jpeg",
 "image/gulkand choco.jpeg",
 "image/chocochip cook.jpg",
-"image/choco do.jpeg"];
+"image/choco do.jpeg",
+"image/rasmalai cake.jpg"];
 
 var counter = 0;
 var elem = document.getElementById("elements");
