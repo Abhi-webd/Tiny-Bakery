@@ -2,7 +2,7 @@ var text = ["Ice-Creams", "Chocolates","Cookies","Donuts","Cakes"];
 var image = ["image/rose ice.jpeg",
 "image/gulkand choco.jpeg",
 "image/chocochip cook.jpg",
-"image/choco do.jpeg",
+"image/chocodo.jpeg",
 "image/rasmalai cake.jpg"];
 
 var counter = 0;
