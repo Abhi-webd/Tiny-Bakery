@@ -1,6 +1,6 @@
 var text = ["Chocolates","Cookies","Donuts","CupCakes","Cakes","Ice-Creams"];
 var image = [
-"image/gulkand choco.jpeg",
+"image/chocban.jpg",
 "image/chocochip cook.jpg",
 "image/chocodo.jpeg",
 "image/gjcc.jpeg",
